@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a636e25b7506d984dadd51485d33ceb4, type: 3}
+  m_Name: DamageEnemy
+  m_EditorClassIdentifier: 
+  trigger: {fileID: 11400000, guid: 67e3c89bd4544ee4cb30a13bae57e7d1, type: 2}
+  targetPlayer: {fileID: 11400000, guid: cd3994671291d104bac61c7527254d29, type: 2}
+  playerSystem: {fileID: 11400000, guid: b1010d3b06b1da441af162b209e0d54c, type: 2}
+  amount: 10

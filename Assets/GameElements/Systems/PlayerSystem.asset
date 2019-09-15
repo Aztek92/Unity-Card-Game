@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f74f592fb1344c4395b283244945445, type: 3}
+  m_Name: PlayerSystem
+  m_EditorClassIdentifier: 
+  currentPlayer: {fileID: 11400000, guid: 19427fed58aba4c49b59197dcc4102e4, type: 2}
+  player: {fileID: 11400000, guid: c2d3cbfd09ac9294e900f231ee8ffb0e, type: 2}
+  enemy: {fileID: 11400000, guid: cd3994671291d104bac61c7527254d29, type: 2}
+  OnCardDrawnEvent: {fileID: 11400000, guid: 6356d805bdc30374e8dbd42aff90a976, type: 2}
+  OnCardPlacedOnTableEvent: {fileID: 11400000, guid: 5aba54dea9c3ba246a3451cca3fa7dfb,
+    type: 2}
+  OnPlayerDamaged: {fileID: 0}
+  lastDrawnCard: {fileID: 11400000, guid: 0464d9d6e971171419124e59cb8a25ba, type: 2}
+  currectCardViewActive: {fileID: 11400000, guid: 71b1f3854eced1a408631937861d1660,
+    type: 2}
+  cardSystem: {fileID: 11400000, guid: bd259642db5faa24091ac856b201f54e, type: 2}

@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8f00c8c724a605349884fdf0f16b25f5, type: 3}
+  m_Name: GameSystem
+  m_EditorClassIdentifier: 
+  encounter: {fileID: 11400000, guid: 96bee1bdad90fbe439512b37dba87b48, type: 2}
+  currentState: {fileID: 0}
+  playerData: {fileID: 11400000, guid: df85ac1140bf82b42a3da8bfc0ac6c6d, type: 2}
+  enemyData: {fileID: 11400000, guid: ef8f33fe5db17104ea3321267cf39af1, type: 2}
+  OnChangeTurnEvent: {fileID: 11400000, guid: 72a86fa6945c926478c3bd1a9889be52, type: 2}
+  playerSystem: {fileID: 11400000, guid: b1010d3b06b1da441af162b209e0d54c, type: 2}
+  cardSystem: {fileID: 11400000, guid: bd259642db5faa24091ac856b201f54e, type: 2}
+  resourceSystem: {fileID: 11400000, guid: 8731f69b3d063314ca6fa4a05e717e96, type: 2}
+  actionSystem: {fileID: 11400000, guid: fb2fab09cbf2d2e4889020efd52f6b2a, type: 2}
+  gameEnded: {fileID: 11400000, guid: b00e21eeb2b59b04892792b245ce9430, type: 2}
+  isAnimating: {fileID: 11400000, guid: f07fa4a1038b72543abe37401d7a55d1, type: 2}

@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c61d2e768cdf704582f1613cccb4f78, type: 3}
+  m_Name: Hand Card View Logic
+  m_EditorClassIdentifier: 
+  currentCardView: {fileID: 11400000, guid: 71b1f3854eced1a408631937861d1660, type: 2}
+  currentPlayer: {fileID: 11400000, guid: 19427fed58aba4c49b59197dcc4102e4, type: 2}
+  localPlayer: {fileID: 11400000, guid: c2d3cbfd09ac9294e900f231ee8ffb0e, type: 2}

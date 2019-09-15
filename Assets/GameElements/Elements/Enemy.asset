@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac444f9ac76507649bb32565ee4914da, type: 3}
+  m_Name: Enemy
+  m_EditorClassIdentifier: 
+  name: Enemy
+  hp: {fileID: 11400000, guid: e9992e0a2d88681459bd2e387ef90d45, type: 2}
+  resources: {fileID: 11400000, guid: db9fcc2d787fd444c83cf36c681e3d7a, type: 2}
+  side: 1
+  hand:
+  - {fileID: 11400000, guid: 533c34f3c15d13447878f9ccc3107330, type: 2}
+  table: []
+  graveyard: []
+  deck: []

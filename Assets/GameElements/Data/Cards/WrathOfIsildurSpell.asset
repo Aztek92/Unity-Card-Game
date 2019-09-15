@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db3d7db7376b1374ea8ed9a45da21cb3, type: 3}
+  m_Name: WrathOfIsildurSpell
+  m_EditorClassIdentifier: 
+  id: 3
+  name: Wrath Of Isildur
+  power: 0
+  cost: 4
+  description: Damage three chosen cards dealing 1, 2 and 3 damage respectively
+  useLimit: 1
+  validTargets: 5
+  type: 1
+  artwork: {fileID: 21300000, guid: 174a136d5af7c4446a4bf795fcf6560a, type: 3}
+  ability: {fileID: 11400000, guid: d5673122b8f029b429775db09cc0e249, type: 2}

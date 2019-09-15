@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: db3d7db7376b1374ea8ed9a45da21cb3, type: 3}
+  m_Name: Heal-Card
+  m_EditorClassIdentifier: 
+  id: 8
+  name: Healing
+  power: 2
+  cost: 1
+  description: Restores card HP
+  useLimit: 1
+  validTargets: 4
+  type: 1
+  artwork: {fileID: 21300000, guid: 91c486b06952f984eaca60ec5ef4b9e4, type: 3}
+  ability: {fileID: 11400000, guid: 0d0f4204e6bc38a4fbb556fd8b73c23b, type: 2}

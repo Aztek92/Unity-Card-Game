@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 305ae44439d24af499f827509864c825, type: 3}
+  m_Name: Encounter
+  m_EditorClassIdentifier: 
+  currentPlayer: {fileID: 11400000, guid: 19427fed58aba4c49b59197dcc4102e4, type: 2}
+  currentTurn: {fileID: 11400000, guid: 7e075dbbe6ff7e14b850c098cdf07b30, type: 2}
+  playerTurn: {fileID: 11400000, guid: 7f53feef318500e4cadad44c84b29ef6, type: 2}
+  enemyTurn: {fileID: 11400000, guid: 90b2080161325ec4f9869ce8b51ff8cd, type: 2}
+  player: {fileID: 11400000, guid: c2d3cbfd09ac9294e900f231ee8ffb0e, type: 2}
+  enemy: {fileID: 11400000, guid: cd3994671291d104bac61c7527254d29, type: 2}
