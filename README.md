@@ -1,5 +1,5 @@
 # Unity Card Game
-Simple Card Game. Co-authors: @wiki111 and @selthiien.
+Simple Card Game, MVP. Co-authors: @wiki111 and @selthiien.
 It's reupload of existing repository. 
 
 ### Technology
